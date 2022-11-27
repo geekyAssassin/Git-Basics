@@ -4,3 +4,5 @@ Lets learn git diff
 Tracking after committing
 Lets test diff between branches
 Lets See How Merging Works.
+Lets see how rebasing Works.
+
