@@ -3,3 +3,4 @@ This is the best
 Lets learn git diff
 Tracking after committing
 Lets test diff between branches
+Lets See How Merging Works.
